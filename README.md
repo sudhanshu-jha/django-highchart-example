@@ -1,1 +1,1 @@
-# django-highchart-example
+# Django-highchart-example
